@@ -1,0 +1,9 @@
+/*
+ * See: https://fonts.google.com/license/googlerestricted
+ */
+@font-face {
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Product Sans'), local('ProductSans-Regular'), url(https://fonts.gstatic.com/l/font?kit=pxiDypQkot1TnFhsFMOfGShlFd2JQEl2oE7r9ZYq7xzGs1Q&skey=b7d9d887ed217aec&v=v10) format('woff2');
+}
